@@ -33,17 +33,18 @@ body {
 }
 
 .print-text {
+  font-weight: 500;
   padding-bottom: 10%;
   font-size: 15vw;
 }
 
 .navbar-brand{
   font-size: 2vh;
-  font-weight: 300;
+  font-weight: bold;
 }
 
 .navbar-brand, .navbar-brand:hover{
-  color: white;
+  color: #e6e6e6;
 }
 
 .nav-link:hover {
@@ -51,7 +52,8 @@ body {
 }
 
 .nav-link {
-  color: white;
+  color: #e6e6e6;
+  font-weight: bold;
   font-size: 1.8vh;
 }
 
@@ -177,7 +179,6 @@ body {
 }
 
 .social-link {
-  font-size: 50px;
   position: relative;
   bottom: 80px;
 }
